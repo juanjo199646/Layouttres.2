@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Layouttres.</string>
+    <string name="str_1">CENTER</string>
+    <string name="str_2">arriba</string>
+    <string name="str_3">izquierdo</string>
+    <string name="str_4">derecho</string>
+    <string name="str_5">abajo</string>
+</resources>
